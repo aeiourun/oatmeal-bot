@@ -1,7 +1,7 @@
 # oatmeal-bot
 A script to post markov generated content to myBB forums.
 
-Example:
+The site I had constructed to run this bot is no longer currently active, more information on that here:
 
 https://12oatmeal.com/forum/
 
@@ -13,9 +13,6 @@ Load the files on server, input database and variable information, and run the .
 
 Recomended to be automated through a cronjob.
 
-Read more about this project here:
-
-https://12oatmeal.com/forum/showthread.php?tid=1517707892
 
 ## Credit
 
