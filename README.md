@@ -1,9 +1,7 @@
 # oatmeal-bot
 A script to post markov generated content to myBB forums.
 
-The site I had constructed to run this bot is no longer currently active, more information on that here:
-
-https://12oatmeal.com/forum/
+The script will generate semi random markov chain based text, and make a new myBB forum post with that text as a specified user. This is done by inserting the post into the myBB forum database - as well as updating all the other relevant parts of the database for a new forum post.
 
 ## How-To
 
@@ -23,3 +21,9 @@ https://github.com/WhiteFangs/WordBasedMarkov
 ## Contact Me
 
 Email: contact@12oatmeal.com
+
+## Site history
+
+The site I had constructed to run this bot is no longer currently active, more information on that here:
+
+https://12oatmeal.com/forum/
